@@ -125,7 +125,7 @@ cat /var/log/backup_script.log
 
 ## 🐙 GitHub Repository
 
-🔗 [https://github.com/shreshth/Assignment1](https://github.com/shreshth/Assignment1)
+https://github.com/Hunit01/bash-scripting-assignment
 
 ---
 
